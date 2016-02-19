@@ -1,0 +1,32 @@
+{
+  "name": "yeezytaught.me",
+  "version": "1.0.0",
+  "description": "Kanye West lyric generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiis/yeezytaught.me.git"
+  },
+  "keywords": [
+    "kanye",
+    "west",
+    "recurrent",
+    "neural",
+    "network",
+    "RNN",
+    "lyrics",
+    "generator"
+  ],
+  "author": "Jamis Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamiis/yeezytaught.me/issues"
+  },
+  "homepage": "https://github.com/jamiis/yeezytaught.me#readme",
+  "dependencies": {
+    "rapgenius-js": "^0.1.2"
+  }
+}
